@@ -6,4 +6,5 @@ dependencies:
   - pytorch
   - torchvision
   - torchaudio
+  - yacs
 prefix: /Users/sunxm/opt/miniconda3/envs/dualcoop
