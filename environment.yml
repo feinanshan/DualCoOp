@@ -6,4 +6,7 @@ dependencies:
   - pytorch
   - torchvision
   - torchaudio
+  - ftfy
+  - regex
+  - tqdm
 prefix: /Users/sunxm/opt/miniconda3/envs/dualcoop
