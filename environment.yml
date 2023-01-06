@@ -7,4 +7,6 @@ dependencies:
   - torchvision
   - torchaudio
   - yacs
+  - ftfy
+  - regex
 prefix: /Users/sunxm/opt/miniconda3/envs/dualcoop
